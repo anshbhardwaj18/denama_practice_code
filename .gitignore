@@ -1,0 +1,6 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+Projects/WebWork/all_web_apps/
